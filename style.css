@@ -15,4 +15,13 @@ body{
 }
 button{
     text-align: center;
+    background-color: royalblue;
+}
+button:hover{
+    background-color: rgb(230, 173, 173);
+    cursor: pointer;
+}
+button:focus{
+    background-color: rgb(230, 173, 173);
+    cursor: pointer;
 }
